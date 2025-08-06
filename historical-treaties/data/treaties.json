@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Treaty of Versailles",
+    "date": "June 28, 1919",
+    "location": "Versailles, France",
+    "period": "Modern",
+    "summary": "The most important of the peace treaties that brought World War I to an end. The Treaty ended the state of war between Germany and the Allied Powers.",
+    "signatories": ["Allied Powers", "Germany"],
+    "historical_context": "Signed exactly five years after the assassination of Archduke Franz Ferdinand, the treaty was controversial and is often blamed for contributing to the rise of Nazism and the outbreak of World War II.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Treaty_of_Versailles%2C_English_version.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Magna Carta",
+    "date": "June 15, 1215",
+    "location": "Runnymede, England",
+    "period": "Medieval",
+    "summary": "A royal charter of rights agreed to by King John of England. It was the first document to put into writing the principle that the king and his government was not above the law.",
+    "signatories": ["King John", "English Barons"],
+    "historical_context": "The charter was a practical solution to the political crisis King John faced in 1215. It established for the first time the principle that everybody, including the king, was subject to the law.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/800px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Treaty of Tordesillas",
+    "date": "June 7, 1494",
+    "location": "Tordesillas, Spain",
+    "period": "Renaissance",
+    "summary": "A treaty between Portugal and Spain that divided the newly discovered lands outside Europe between the Portuguese Empire and the Spanish Empire.",
+    "signatories": ["Portugal", "Spain"],
+    "historical_context": "The treaty was created to resolve disputes that had arisen following the return of Christopher Columbus and his crew, who had sailed under the flag of Castile.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tratado_de_Tordesilhas.jpg/800px-Tratado_de_Tordesilhas.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Peace of Westphalia",
+    "date": "October 24, 1648",
+    "location": "Osnabrück and Münster, Westphalia",
+    "period": "Renaissance",
+    "summary": "A series of peace treaties that ended the Thirty Years' War in the Holy Roman Empire and the Eighty Years' War between Spain and the Dutch Republic.",
+    "signatories": ["Multiple European states"],
+    "historical_context": "The treaties resulted from the first modern diplomatic congress and initiated a new political order in central Europe, based upon the concept of a sovereign state governed by a sovereign.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Peace_of_Westphalia.jpg/800px-Peace_of_Westphalia.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Louisiana Purchase",
+    "date": "April 30, 1803",
+    "location": "Paris, France",
+    "period": "Enlightenment",
+    "summary": "The acquisition of the territory of Louisiana by the United States from Napoleonic France.",
+    "signatories": ["United States", "France"],
+    "historical_context": "The purchase doubled the size of the United States, greatly strengthened the country materially and strategically, and provided a powerful impetus to westward expansion.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Louisiana_Purchase.jpg/800px-Louisiana_Purchase.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Adams-Onís Treaty",
+    "date": "February 22, 1819",
+    "location": "Washington, D.C., USA",
+    "period": "Enlightenment",
+    "summary": "A treaty between the United States and Spain that ceded Florida to the U.S. and defined the boundary between the U.S. and New Spain.",
+    "signatories": ["United States", "Spain"],
+    "historical_context": "It settled a standing border dispute between the two countries and was considered a triumph of American diplomacy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Adams-onis_treaty.jpg/800px-Adams-onis_treaty.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Treaty of Ghent",
+    "date": "December 24, 1814",
+    "location": "Ghent, Belgium",
+    "period": "Enlightenment",
+    "summary": "The peace treaty that ended the War of 1812 between the United States and the United Kingdom.",
+    "signatories": ["United States", "United Kingdom"],
+    "historical_context": "The treaty restored the borders of the two countries to the lines before the war started. News of the treaty took time to reach the US, and the Battle of New Orleans was fought after it was signed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Treaty_of_Ghent_at_the_National_Archives.jpg/800px-Treaty_of_Ghent_at_the_National_Archives.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Antarctic Treaty System",
+    "date": "December 1, 1959",
+    "location": "Washington, D.C., USA",
+    "period": "Modern",
+    "summary": "A treaty that sets aside Antarctica as a scientific preserve, establishes freedom of scientific investigation, and bans military activity on the continent.",
+    "signatories": ["12 original signatory countries"],
+    "historical_context": "The treaty was the first arms control agreement established during the Cold War. It was a diplomatic expression of the operational and scientific cooperation that had been achieved on the continent.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Antarctic_Treaty_Signature_Ceremony.jpg/800px-Antarctic_Treaty_Signature_Ceremony.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Outer Space Treaty",
+    "date": "January 27, 1967",
+    "location": "London, Moscow, Washington D.C.",
+    "period": "Modern",
+    "summary": "A treaty that forms the basis of international space law. It bars states parties to the treaty from placing nuclear weapons or any other weapons of mass destruction in orbit of Earth.",
+    "signatories": ["Multiple countries"],
+    "historical_context": "The treaty was negotiated during the height of the Space Race between the US and the Soviet Union, and it represents a significant achievement in arms control and international cooperation.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Outer_Space_Treaty_ceremony_-_10_October_1967.jpg/800px-Outer_Space_Treaty_ceremony_-_10_October_1967.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Treaty of Paris (1783)",
+    "date": "September 3, 1783",
+    "location": "Paris, France",
+    "period": "Enlightenment",
+    "summary": "Signed by representatives of King George III of Great Britain and representatives of the United States of America, it ended the American Revolutionary War.",
+    "signatories": ["Great Britain", "United States"],
+    "historical_context": "The treaty formally recognized American independence and established borders for the new nation. The treaty is named after the city where it was negotiated and signed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Treaty_of_Paris_by_Benjamin_West_1783.jpg/800px-Treaty_of_Paris_by_Benjamin_West_1783.jpg"
+  }
+]
